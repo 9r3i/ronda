@@ -1,5 +1,11 @@
 # ronda
-Ronda Schedule
+
+[![Author](https://img.shields.io/badge/author-9r3i-lightgrey.svg)](https://github.com/9r3i "9r3i")
+[![License](https://img.shields.io/github/license/9r3i/ronda.svg)](https://github.com/9r3i/ronda/blob/master/license.txt "License")
+[![Forks](https://img.shields.io/github/forks/9r3i/ronda.svg)](https://github.com/9r3i/ronda/network "Forks")
+[![Stars](https://img.shields.io/github/stars/9r3i/ronda.svg)](https://github.com/9r3i/ronda/stargazers "Stars")
+[![Issues](https://img.shields.io/github/issues/9r3i/ronda.svg)](https://github.com/9r3i/ronda/issues "Issues")
+[![Releases](https://img.shields.io/github/release/9r3i/ronda.svg)](https://github.com/9r3i/ronda/releases "Releases")
 
 # What is Ronda?
 - This is not about Ronda Rousey, :D
