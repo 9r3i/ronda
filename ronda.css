@@ -1,0 +1,12 @@
+body,table{font-family:sans-serif,consola,consolas,monospace;font-size:13px;color:#333;font-weight:300;}
+body{padding:0px;margin:0px;background-color:#7bf;}
+a{text-decoration:none;color:#37b;}
+a:hover{text-shadow:0px 0px 5px #7b3;color:#7b3;}
+.ronda{margin:0px auto;padding:0px;background-color:#fff;max-width:1000px;box-shadow:0px 0px 10px #fff;}
+.ronda-header{padding:30px 0px;margin:0px;font-size:23px;text-align:center;font-weight:500;}
+.ronda-footer{padding:30px 0px;margin:0px;font-size:11px;text-align:center;}
+.ronda-body{margin:0px;text-align:center;}
+.ronda-each{display:inline-block;vertical-align:top;border:1px solid #777;overflow:hidden;width:160px;margin:1px;}
+.ronda-each-head{background-color:#bdf;color:#333;padding:3px;text-align:center;font-weight:400;font-size:13px;white-space:pre;overflow:hidden;}
+.ronda-each-body{border-top:1px dotted #777;overflow:hidden;width:100%;}
+.ronda-each-member{border-top:1px dotted #999;padding:3px;overflow:hidden;width:calc(100% - 6px);white-space:pre;text-align:center;font-size:13px;}
