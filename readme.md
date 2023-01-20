@@ -17,6 +17,22 @@ Ronda Schedule
 - Actually, this is my old coding file, I found it without maintenance, so I decide to upload it.
 
 
+# Usage
+```js
+const ronda=new Ronda({
+  title: "Jadwal Ronda",
+  startDate: "2015-05-01", // string of starting date; date format must be yyyy-mm-dd
+  perTeam: 4,              // int of member per team
+  repeat: 5,               // int of repeatation schedule
+  random: false,           // bool of random the list
+  members: [
+    // ... array of list of participants
+  ]
+});
+```
+
+
+
 # Sample
 [https://9r3i.github.io/ronda/ronda.html](https://9r3i.github.io/ronda/ronda.html)
 
