@@ -6,9 +6,9 @@
  * started at october 15th 2019
  * ~ version 1.0.0-stable in php version --> https://github.com/9r3i/ronda/tree/1.0.0-stable
  * ~ this is version 2.0.0 in javascript
- * @usage: (new ronda(RONDA_DATA)).put('#selector');
+ * @usage: (new Ronda(RONDA_DATA)).put('#selector');
  */
-;var ronda=window.ronda||function(data){
+;const Ronda=window.Ronda||function(data){
 this.version='2.0.0'; // version of ronda; initial is 2.0.0; version 1.0.0-stable is php version
 this.startTime=(new Date).getTime(); // starting time of first team
 this.perTeam=4;     // int of maximum member per team
