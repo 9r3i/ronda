@@ -113,7 +113,7 @@ var RONDA_DATA={
 };
 
 /* initialize ronda data, then put in #ronda element */
-(new ronda(RONDA_DATA)).put("#ronda");
+(new Ronda(RONDA_DATA)).put("#ronda");
 
 
 
