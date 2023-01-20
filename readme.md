@@ -17,6 +17,10 @@ Ronda Schedule
 - Actually, this is my old coding file, I found it without maintenance, so I decide to upload it.
 
 
+# Sample
+[https://9r3i.github.io/ronda/ronda.html](https://9r3i.github.io/ronda/ronda.html)
+
+
 # Versioning
 - Version 1.0.0-stable is using PHP, basically PHP/5.5, I built the code in May 2015.
 - Get version 1.0.0 in https://github.com/9r3i/ronda/tree/1.0.0-stable
@@ -32,5 +36,10 @@ Ronda Schedule
 # Next Task
 - Build javascript version [O.K.]
 - Or upgrade version, but using javascript  [O.K.]
+
+
+# Closing
+That's all there is to it.
+Alhamdulillaah...
 
 
